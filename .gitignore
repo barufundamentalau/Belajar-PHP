@@ -1,0 +1,4 @@
+/vendor
+**/storage/*
+tasks.md
+.env
